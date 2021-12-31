@@ -9,11 +9,15 @@
  <p>
 I am a motivated web developer with a flair for creating elegant solutions in an efficient and effective manner. Over 12 years’ experience in designing, developing, integrating, and supporting corporate tools and applications, including financial management, database architecture, and e-commerce. I am passionate about software architecture and streamlining designs using design patterns to provide the best outcome for my stakeholders.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+### Key Skills
+- Able to work with key stakeholders to understand their needs and deliver accordingly
+- Ability to lead and manage a team to deliver to tight deadlines
+- Experienced in working across different technology stacks
+- Always take the initiative to learn new technologies, and implement on projects when beneficial
 </p>
 </div>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### My Tack Stack
 
 <table align="center">
   <tbody>
@@ -85,5 +89,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://stackoverflow.com/users/11503065/mostafa?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Mostafa%20Vahabian-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:mostafa.vahabian@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mostafa.vahabian@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
+
+
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
