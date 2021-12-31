@@ -31,16 +31,16 @@ I have excellent design & coding skills, as well as an ability to convert requir
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong>
+        <span><strong>Angular</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <img height="64px" src="http://www.vahabian.com/github/images/angular.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Python</strong>
+        <span><strong>c#</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="http://www.vahabian.com/github/images/c-sharp.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
@@ -58,20 +58,20 @@ I have excellent design & coding skills, as well as an ability to convert requir
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <span><strong>.NetCore</strong></span><br><br><br>
+        <img height="64px" src="http://www.vahabian.com/github/images/net_core.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <span><strong>SqlServer</strong></span><br><br><br>
+        <img height="64px" src="http://www.vahabian.com/github/images/sql-server.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <span><strong>Elasticsearch</strong></span><br><br><br>
+        <img height="64px" src="http://www.vahabian.com/github/images/elasticsearch.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+        <span><strong>Docker</strong></span><br><br><br>
+        <img height="64px" src="http://www.vahabian.com/github/images/docker.svg">
       </td>
     </tr>
   </tbody>
