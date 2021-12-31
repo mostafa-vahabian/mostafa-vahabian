@@ -15,7 +15,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
